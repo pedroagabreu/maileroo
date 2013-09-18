@@ -1,2 +1,4 @@
 maileroo
 ========
+
+Bulk email sender
